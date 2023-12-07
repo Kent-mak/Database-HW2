@@ -1,0 +1,23 @@
+ Continent_Name | Country with highest Over Stringency Index | Max over Stringency Index | Country with lowest Over Stringency Index | Min over Stringency Index | year | month | day 
+----------------+--------------------------------------------+---------------------------+-------------------------------------------+---------------------------+------+-------+-----
+ Africa         | Angola                                     |      907.4000000000000000 | South Africa                              |    0.74542372881355932203 | 2020 | 04    | 01
+ Africa         | Lesotho                                    |      907.4000000000000000 | South Africa                              |    0.74542372881355932203 | 2020 | 04    | 01
+ Africa         | Congo                                      |      472.2000000000000000 | Cameroon                                  |    0.01474235441977377461 | 2021 | 04    | 01
+ Africa         | Guinea                                     |      463.0000000000000000 | Botswana                                  |    0.00233877757198181512 | 2022 | 04    | 01
+ Asia           | Nepal                                      |      963.0000000000000000 | Iran                                      |    0.01764290104486785495 | 2020 | 04    | 01
+ Asia           | Tajikistan                                 |      287.0000000000000000 | India                                     |    0.00078567937438905181 | 2021 | 04    | 01
+ Asia           | Yemen                                      |      351.9000000000000000 | Mongolia                                  |    0.00000000000000000000 | 2022 | 04    | 01
+ Europe         | Monaco                                     |       21.9900000000000000 | Spain                                     |    0.00928400174367916303 | 2020 | 04    | 01
+ Europe         | Faeroe Islands                             |      481.5000000000000000 | France                                    |    0.00152643186526766023 | 2021 | 04    | 01
+ Europe         | Faeroe Islands                             |      111.1000000000000000 | France                                    |    0.00011912824959963540 | 2022 | 04    | 01
+ North America  | Greenland                                  |      777.8000000000000000 | United States                             |    0.00297251983315612988 | 2020 | 04    | 01
+ North America  | Greenland                                  |      370.4000000000000000 | United States                             |    0.00074151532800338857 | 2021 | 04    | 01
+ North America  | El Salvador                                |      332.2000000000000000 | United States                             |    0.00086859235150528885 | 2022 | 04    | 01
+ Oceania        | Tonga                                      |      935.2000000000000000 | Australia                                 |    0.17736318407960199005 | 2020 | 04    | 01
+ Oceania        | Fiji                                       |      490.7000000000000000 | Papua New Guinea                          |    0.21692307692307692308 | 2021 | 04    | 01
+ Oceania        | Kiribati                                   |      606.5000000000000000 | Australia                                 |    0.00066593698694394496 | 2022 | 04    | 01
+ South America  | Suriname                                   |      713.0000000000000000 | Brazil                                    |    0.11380152671755725191 | 2020 | 04    | 01
+ South America  | Suriname                                   |       11.7283333333333333 | Brazil                                    |    0.00080906037968610787 | 2021 | 04    | 01
+ South America  | Guyana                                     |        3.7000000000000000 | Brazil                                    |    0.00114376379690949227 | 2022 | 04    | 01
+(19 rows)
+

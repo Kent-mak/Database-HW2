@@ -1,0 +1,30 @@
+ Continent Name | Country higjest StringencyIndex | Country lowest StringencyIndex | year | month | day 
+----------------+---------------------------------+--------------------------------+------+-------+-----
+ Africa         | Congo                           | Burundi                        | 2020 | 04    | 01
+ Africa         | Mauritius                       | Tanzania                       | 2021 | 04    | 01
+ Africa         | Seychelles                      | Gabon                          | 2022 | 04    | 01
+ Asia           | Sri Lanka                       | Tajikistan                     | 2020 | 04    | 01
+ Asia           | India                           | Tajikistan                     | 2020 | 04    | 01
+ Asia           | Jordan                          | Tajikistan                     | 2020 | 04    | 01
+ Asia           | Georgia                         | Tajikistan                     | 2020 | 04    | 01
+ Asia           | Philippines                     | Tajikistan                     | 2020 | 04    | 01
+ Asia           | Timor-Leste                     | Laos                           | 2021 | 04    | 01
+ Asia           | Myanmar                         | Mongolia                       | 2022 | 04    | 01
+ Europe         | Georgia                         | Belarus                        | 2020 | 04    | 01
+ Europe         | Serbia                          | Belarus                        | 2020 | 04    | 01
+ Europe         | Greece                          | Russia                         | 2021 | 04    | 01
+ Europe         | Ukraine                         | Andorra                        | 2022 | 04    | 01
+ North America  | Honduras                        | Nicaragua                      | 2020 | 04    | 01
+ North America  | Honduras                        | Nicaragua                      | 2021 | 04    | 01
+ North America  | Dominica                        | Dominican Republic             | 2022 | 04    | 01
+ North America  | Dominica                        | Nicaragua                      | 2022 | 04    | 01
+ Oceania        | New Zealand                     | Kiribati                       | 2020 | 04    | 01
+ Oceania        | Papua New Guinea                | New Zealand                    | 2021 | 04    | 01
+ Oceania        | Papua New Guinea                | Vanuatu                        | 2021 | 04    | 01
+ Oceania        | Papua New Guinea                | Kiribati                       | 2021 | 04    | 01
+ Oceania        | Vanuatu                         | Fiji                           | 2022 | 04    | 01
+ South America  | Argentina                       | Guyana                         | 2020 | 04    | 01
+ South America  | Venezuela                       | Bolivia                        | 2021 | 04    | 01
+ South America  | Suriname                        | Uruguay                        | 2022 | 04    | 01
+(26 rows)
+

@@ -1,0 +1,10 @@
+DROP TABLE "setting" CASCADE;
+DROP TABLE "Indicies";
+DROP TABLE "ContainmentPolicies";
+DROP TABLE "HealthSystemPolicies";
+DROP TABLE "EconomicPolicies";
+DROP TABLE "VaccinationPolicies";
+DROP TABLE "MiscellaneousPolicies";
+DROP TABLE "Country"  CASCADE;
+DROP TABLE "Continent"  CASCADE;
+DROP TABLE "in_Continent";
